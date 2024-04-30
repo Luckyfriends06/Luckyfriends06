@@ -3,7 +3,7 @@
 Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiting my profile.
 
 ```python
-import my waifu
+import waifu
 import tendou arisu
 # returns 'Hobbies'
 tendou.arisu('watching anime')
