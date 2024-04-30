@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-Hello everyone. My name is Abu, I live in Solo Indonesia. Thank you for visiting my profile.
+Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiting my profile.
 
 ```python
 import waifu
