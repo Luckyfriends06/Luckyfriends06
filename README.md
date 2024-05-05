@@ -2,14 +2,22 @@
 
 Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiting my profile.
 
-```python
-import waifu
-import tendou_arisu
+```C++
+#include <iostream>
 
-# waifu 'hobbies'
-tendou_arisu('watching anime')
-tendou_arisu('reading manga')
-tendou_arisu('sleeping')
+using namespace std;
+
+int main() {
+  string name = "Abu";
+  int hobbies = Watching anime;
+  string live = "Bekasi";
+
+  cout << "Halo! My name is " << name << endl;
+  cout << "My hobbies" << hobbies << endl;
+  cout << "I live in" << live << endl;
+
+return 0;
+}
 ```
 
 ``` • Languages and Tools: ```
