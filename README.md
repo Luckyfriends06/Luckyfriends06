@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
   string name = "Abu";
-  int hobbies = Watching anime;
+  int hobbies = "Watching anime";
   string live = "Bekasi";
 
   cout << "Halo! My name is " << name << endl;
