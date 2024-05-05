@@ -3,12 +3,8 @@
 Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiting my profile.
 
 ```python
-import waifu
-import tendou arisu
-# returns 'Hobbies'
-tendou.arisu('watching anime')
-tendou.arisu('reading manga')
-tendou.arisu('sleeping')
+# My hobbies
+print(" watching anime • reading manga • sleeping ")
 ```
 
 ``` • Languages and Tools: ```
