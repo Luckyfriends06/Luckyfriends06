@@ -4,7 +4,6 @@ Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiti
 
 ```C++
 #include <iostream>
-
 using namespace std;
 
 int main() {
@@ -16,8 +15,7 @@ int main() {
   cout << "My hobbies " << hobbies << endl;
   cout << "I live in " << live << endl;
 
-return 0;
-}
+return 0; }
 ```
 
 ``` • Languages and Tools: ```
