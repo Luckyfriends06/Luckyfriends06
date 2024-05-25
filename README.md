@@ -11,7 +11,7 @@ int main() {
   cout << "My hobbies " << hobbies << endl;
   cout << "I live in " << live << endl;
   
-string name = "Abu";
+  string name = "Abu";
   string hobbies = "Watching anime";
   string live = "Bekasi";
 return 0; }
