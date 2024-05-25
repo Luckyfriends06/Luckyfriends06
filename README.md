@@ -14,7 +14,6 @@ int main() {
 string name = "Abu";
   string hobbies = "Watching anime";
   string live = "Bekasi";
-
 return 0; }
 ```
 
