@@ -1,7 +1,5 @@
 ## Welcome to my profile
 
-Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiting my profile.
-
 ```C++
 #include <iostream>
 using namespace std;
