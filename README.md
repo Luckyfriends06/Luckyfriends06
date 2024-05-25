@@ -7,13 +7,13 @@ Hello everyone. My name is Abu, I live in Bekasi Indonesia. Thank you for visiti
 using namespace std;
 
 int main() {
-  string name = "Abu";
-  string hobbies = "Watching anime";
-  string live = "Bekasi";
-
   cout << "Halo! My name is " << name << endl;
   cout << "My hobbies " << hobbies << endl;
   cout << "I live in " << live << endl;
+  
+string name = "Abu";
+  string hobbies = "Watching anime";
+  string live = "Bekasi";
 
 return 0; }
 ```
